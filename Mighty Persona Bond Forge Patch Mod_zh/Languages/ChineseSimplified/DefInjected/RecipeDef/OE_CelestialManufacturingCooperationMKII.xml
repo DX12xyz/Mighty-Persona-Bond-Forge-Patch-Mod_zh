@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Make_QBU_TOOE_Bond.label>制作 Δ'QBU-301E 高精度电荷狙击枪</Make_QBU_TOOE_Bond.label>
+    <Make_QBU_TOOE_Bond.description>制作 Δ'QBU-301E 高精度电荷狙击枪</Make_QBU_TOOE_Bond.description>
+    <Make_QBU_TOOE_Bond.jobString>制作 Δ'QBU-301E 高精度电荷狙击枪</Make_QBU_TOOE_Bond.jobString>
+
+    <Make_QBU_sixsix_Bond.label>制作 Δ'QBU-66 反器材电荷爆弹狙击枪</Make_QBU_sixsix_Bond.label>
+    <Make_QBU_sixsix_Bond.description>制作 Δ'QBU-66 反器材电荷爆弹狙击枪</Make_QBU_sixsix_Bond.description>
+    <Make_QBU_sixsix_Bond.jobString>制作 Δ'QBU-66 反器材电荷爆弹狙击枪</Make_QBU_sixsix_Bond.jobString>
+
+    <Make_CMC_QBUS85X_Flame_Bond.label>制作 Δ'QBU-85S “离火”智能射手步枪</Make_CMC_QBUS85X_Flame_Bond.label>
+    <Make_CMC_QBUS85X_Flame_Bond.description>制作 Δ'QBU-85S “离火”智能射手步枪</Make_CMC_QBUS85X_Flame_Bond.description>
+    <Make_CMC_QBUS85X_Flame_Bond.jobString>制作 Δ'QBU-85S “离火”智能射手步枪</Make_CMC_QBUS85X_Flame_Bond.jobString>
+
+    <Make_CMC_QBXfiveseven_CSG_Bond.label>制作 Δ'QBX-57C智能电荷霰弹枪</Make_CMC_QBXfiveseven_CSG_Bond.label>
+    <Make_CMC_QBXfiveseven_CSG_Bond.description>制作 Δ'QBX-57C智能电荷霰弹枪</Make_CMC_QBXfiveseven_CSG_Bond.description>
+    <Make_CMC_QBXfiveseven_CSG_Bond.jobString>制作 Δ'QBX-57C智能电荷霰弹枪</Make_CMC_QBXfiveseven_CSG_Bond.jobString>
+
+    <Make_CMC_QBXninenine_CSG_Bond.label>制作 Δ'QBX-99C智能电荷霰弹枪</Make_CMC_QBXninenine_CSG_Bond.label>
+    <Make_CMC_QBXninenine_CSG_Bond.description>制作 Δ'QBX-99C智能电荷霰弹枪</Make_CMC_QBXninenine_CSG_Bond.description>
+    <Make_CMC_QBXninenine_CSG_Bond.jobString>制作 Δ'QBX-99C智能电荷霰弹枪</Make_CMC_QBXninenine_CSG_Bond.jobString>
+
+    <Make_QBZ_fivenine_MOD_X_Bond.label>制作 Δ'QBZ-59X原型电荷突击步枪</Make_QBZ_fivenine_MOD_X_Bond.label>
+    <Make_QBZ_fivenine_MOD_X_Bond.description>制作 Δ'QBZ-59X原型电荷突击步枪</Make_QBZ_fivenine_MOD_X_Bond.description>
+    <Make_QBZ_fivenine_MOD_X_Bond.jobString>制作 Δ'QBZ-59X原型电荷突击步枪</Make_QBZ_fivenine_MOD_X_Bond.jobString>
+
+    <Make_QBZ_fivenine_Bond.label>制作 Δ'QBZ-59C“强良”电荷突击步枪</Make_QBZ_fivenine_Bond.label>
+    <Make_QBZ_fivenine_Bond.description>制作 Δ'QBZ-59C“强良”电荷突击步枪</Make_QBZ_fivenine_Bond.description>
+    <Make_QBZ_fivenine_Bond.jobString>制作 Δ'QBZ-59C“强良”电荷突击步枪</Make_QBZ_fivenine_Bond.jobString>
+
+    <Make_QBB_fivenine_Bond.label>制作 Δ'QBB-59C“强良”班用电荷机枪</Make_QBB_fivenine_Bond.label>
+    <Make_QBB_fivenine_Bond.description>制作 Δ'QBB-59C“强良”班用电荷机枪</Make_QBB_fivenine_Bond.description>
+    <Make_QBB_fivenine_Bond.jobString>制作 Δ'QBB-59C“强良”班用电荷机枪</Make_QBB_fivenine_Bond.jobString>
+
+    <Make_QBZ71_QS_Bond.label>制作 Δ'QBZ-71重型战斗步枪</Make_QBZ71_QS_Bond.label>
+    <Make_QBZ71_QS_Bond.description>制作 Δ'QBZ-71重型战斗步枪</Make_QBZ71_QS_Bond.description>
+    <Make_QBZ71_QS_Bond.jobString>制作 Δ'QBZ-71重型战斗步枪</Make_QBZ71_QS_Bond.jobString>
+
+    <Make_QBZ_threeooE_Bond.label>制作 Δ'QBZ-301E充能突击步枪</Make_QBZ_threeooE_Bond.label>
+    <Make_QBZ_threeooE_Bond.description>制作 Δ'QBZ-301E充能突击步枪</Make_QBZ_threeooE_Bond.description>
+    <Make_QBZ_threeooE_Bond.jobString>制作 Δ'QBZ-301E充能突击步枪</Make_QBZ_threeooE_Bond.jobString>
+
+    <Make_W85XWJ_Bond.label>制作 Δ'QBB-85X“万剑”智能轻机枪</Make_W85XWJ_Bond.label>
+    <Make_W85XWJ_Bond.description>制作 Δ'QBB-85X“万剑”智能轻机枪</Make_W85XWJ_Bond.description>
+    <Make_W85XWJ_Bond.jobString>制作 Δ'QBB-85X“万剑”智能轻机枪</Make_W85XWJ_Bond.jobString>
+
+    <Make_CMC_QBU71S_Bond.label>制作 Δ'QBU-71 智能反器材狙击枪</Make_CMC_QBU71S_Bond.label>
+    <Make_CMC_QBU71S_Bond.description>制作 Δ'QBU-71 智能反器材狙击枪</Make_CMC_QBU71S_Bond.description>
+    <Make_CMC_QBU71S_Bond.jobString>制作 Δ'QBU-71 智能反器材狙击枪</Make_CMC_QBU71S_Bond.jobString>
+
+    <Make_QBU71_QS_Bond.label>制作 Δ'QBU-71 “九尾”战术狙击枪</Make_QBU71_QS_Bond.label>
+    <Make_QBU71_QS_Bond.description>制作 Δ'QBU-71 “九尾”战术狙击枪</Make_QBU71_QS_Bond.description>
+    <Make_QBU71_QS_Bond.jobString>制作 Δ'QBU-71 “九尾”战术狙击枪</Make_QBU71_QS_Bond.jobString>
+
+    <Make_QBUS85XWJ_Bond.label>制作 Δ'QBUS-85X “响箭”智能射手步枪</Make_QBUS85XWJ_Bond.label>
+    <Make_QBUS85XWJ_Bond.description>制作 Δ'QBUS-85X “响箭”智能射手步枪</Make_QBUS85XWJ_Bond.description>
+    <Make_QBUS85XWJ_Bond.jobString>制作 Δ'QBUS-85X “响箭”智能射手步枪</Make_QBUS85XWJ_Bond.jobString>
+
+    <Make_QBZS85XWJ_Bond.label>制作 Δ'QBZ-85X 万剑 智能冲锋枪</Make_QBZS85XWJ_Bond.label>
+    <Make_QBZS85XWJ_Bond.description>制作 Δ'QBZ-85X 万剑 智能冲锋枪</Make_QBZS85XWJ_Bond.description>
+    <Make_QBZS85XWJ_Bond.jobString>制作 Δ'QBZ-85X 万剑 智能冲锋枪</Make_QBZS85XWJ_Bond.jobString>
+
+    <Make_CMC_GrenadeLauncher_Bond.label>制作 Δ'QL-40 多用途榴弹发射器</Make_CMC_GrenadeLauncher_Bond.label>
+    <Make_CMC_GrenadeLauncher_Bond.description>制作 Δ'QL-40 多用途榴弹发射器</Make_CMC_GrenadeLauncher_Bond.description>
+    <Make_CMC_GrenadeLauncher_Bond.jobString>制作 Δ'QL-40 多用途榴弹发射器</Make_CMC_GrenadeLauncher_Bond.jobString>
+
+    <Make_CMC_HJX_ATGM_Bond.label>制作 Δ'红箭-53 单兵反坦克导弹</Make_CMC_HJX_ATGM_Bond.label>
+    <Make_CMC_HJX_ATGM_Bond.description>制作 Δ'红箭-53 单兵反坦克导弹</Make_CMC_HJX_ATGM_Bond.description>
+    <Make_CMC_HJX_ATGM_Bond.jobString>制作 Δ'红箭-53 单兵反坦克导弹</Make_CMC_HJX_ATGM_Bond.jobString>
+
+    <Make_PrototypeXiHe_Bond.label>制作 Δ'实验性羲和脉冲喷火器</Make_PrototypeXiHe_Bond.label>
+    <Make_PrototypeXiHe_Bond.description>制作 Δ'实验性羲和脉冲喷火器</Make_PrototypeXiHe_Bond.description>
+    <Make_PrototypeXiHe_Bond.jobString>制作 Δ'实验性羲和脉冲喷火器</Make_PrototypeXiHe_Bond.jobString>
+
+    <Make_QLUX_Pulse_Projector_Bond.label>制作 QBU-X“祝融”单兵攻城炮</Make_QLUX_Pulse_Projector_Bond.label>
+    <Make_QLUX_Pulse_Projector_Bond.description>制作 QBU-X“祝融”单兵攻城炮</Make_QLUX_Pulse_Projector_Bond.description>
+    <Make_QLUX_Pulse_Projector_Bond.jobString>制作 QBU-X“祝融”单兵攻城炮</Make_QLUX_Pulse_Projector_Bond.jobString>
+
+    <!-- 自带人格
+    <Make_QLUX_Pulse_Projector_Persona_Bond.label>制作 Δ'QBU-X“祝融II”攻城炮</Make_QLUX_Pulse_Projector_Persona_Bond.label>
+    <Make_QLUX_Pulse_Projector_Persona_Bond.description>制作 Δ'QBU-X“祝融II”攻城炮</Make_QLUX_Pulse_Projector_Persona_Bond.description>
+    <Make_QLUX_Pulse_Projector_Persona_Bond.jobString>制作 Δ'QBU-X“祝融II”攻城炮</Make_QLUX_Pulse_Projector_Persona_Bond.jobString>
+    -->
+
+    <Make_CMM_PLaserpistol_Bond.label>制作 Δ'QCS-79P 脉冲激光手枪</Make_CMM_PLaserpistol_Bond.label>
+    <Make_CMM_PLaserpistol_Bond.description>制作 Δ'QCS-79P 脉冲激光手枪</Make_CMM_PLaserpistol_Bond.description>
+    <Make_CMM_PLaserpistol_Bond.jobString>制作 Δ'QCS-79P 脉冲激光手枪</Make_CMM_PLaserpistol_Bond.jobString>
+
+    <Make_CMC_PLaserSMG_Bond.label>制作 Δ'QBZL-79P 脉冲激光冲锋枪</Make_CMC_PLaserSMG_Bond.label>
+    <Make_CMC_PLaserSMG_Bond.description>制作 Δ'QBZL-79P 脉冲激光冲锋枪</Make_CMC_PLaserSMG_Bond.description>
+    <Make_CMC_PLaserSMG_Bond.jobString>制作 Δ'QBZL-79P 脉冲激光冲锋枪</Make_CMC_PLaserSMG_Bond.jobString>
+
+    <Make_CMC_PLaserLMG_Bond.label>制作 Δ'QBZL-79P 脉冲激光机枪</Make_CMC_PLaserLMG_Bond.label>
+    <Make_CMC_PLaserLMG_Bond.description>制作 Δ'QBZL-79P 脉冲激光机枪</Make_CMC_PLaserLMG_Bond.description>
+    <Make_CMC_PLaserLMG_Bond.jobString>制作 Δ'QBZL-79P 脉冲激光机枪</Make_CMC_PLaserLMG_Bond.jobString>
+
+    <Make_CMC_ShapedLaserRifle_Bond.label>制作 Δ'QBZL-55 射线步枪</Make_CMC_ShapedLaserRifle_Bond.label>
+    <Make_CMC_ShapedLaserRifle_Bond.description>制作 Δ'QBZL-55 射线步枪</Make_CMC_ShapedLaserRifle_Bond.description>
+    <Make_CMC_ShapedLaserRifle_Bond.jobString>制作 Δ'QBZL-55 射线步枪</Make_CMC_ShapedLaserRifle_Bond.jobString>
+
+    <!-- 原文未汉化，暂译保留
+    <Make_CMC_ShenLongLaserLMG_Bond.label>制作 Δ'QBZL-102P“神龙”机枪</Make_CMC_ShenLongLaserLMG_Bond.label>
+    <Make_CMC_ShenLongLaserLMG_Bond.description>制作 Δ'QBZL-102P“神龙”机枪</Make_CMC_ShenLongLaserLMG_Bond.description>
+    <Make_CMC_ShenLongLaserLMG_Bond.jobString>制作 Δ'QBZL-102P“神龙”机枪</Make_CMC_ShenLongLaserLMG_Bond.jobString>
+    -->
+
+    <Make_CMC_QSZfiveseven_Bond.label>制作 Δ'QSZ-57 单兵自卫武器</Make_CMC_QSZfiveseven_Bond.label>
+    <Make_CMC_QSZfiveseven_Bond.description>制作 Δ'QSZ-57 单兵自卫武器</Make_CMC_QSZfiveseven_Bond.description>
+    <Make_CMC_QSZfiveseven_Bond.jobString>制作 Δ'QSZ-57 单兵自卫武器</Make_CMC_QSZfiveseven_Bond.jobString>
+
+    <Make_QBZoneooneXuanMing_Bond.label>制作 QBZ-101C “玄冥”电磁轨道步枪</Make_QBZoneooneXuanMing_Bond.label>
+    <Make_QBZoneooneXuanMing_Bond.description>制作 QBZ-101C “玄冥”电磁轨道步枪</Make_QBZoneooneXuanMing_Bond.description>
+    <Make_QBZoneooneXuanMing_Bond.description>制作 QBZ-101C “玄冥”电磁轨道步枪</Make_QBZoneooneXuanMing_Bond.description>
+
+    <Make_CMC_TaoTie_Bond.label>制作 QBZL-822 “饕餮”炼狱射线步枪</Make_CMC_TaoTie_Bond.label>
+    <Make_CMC_TaoTie_Bond.description>制作 QBZL-822 “饕餮”炼狱射线步枪</Make_CMC_TaoTie_Bond.description>
+    <Make_CMC_TaoTie_Bond.jobString>制作 QBZL-822 “饕餮”炼狱射线步枪</Make_CMC_TaoTie_Bond.jobString>
+
+    <Make_CMC_EMPsword_Bond.label>制作 汉剑</Make_CMC_EMPsword_Bond.label>
+    <Make_CMC_EMPsword_Bond.description>制作 汉剑</Make_CMC_EMPsword_Bond.description>
+    <Make_CMC_EMPsword_Bond.jobString>制作 汉剑</Make_CMC_EMPsword_Bond.jobString>
+
+    <Make_TangDao_Bond.label>制作 唐刀</Make_TangDao_Bond.label>
+    <Make_TangDao_Bond.description>制作 唐刀</Make_TangDao_Bond.description>
+    <Make_TangDao_Bond.jobString>制作 唐刀</Make_TangDao_Bond.jobString>
+</LanguageData>

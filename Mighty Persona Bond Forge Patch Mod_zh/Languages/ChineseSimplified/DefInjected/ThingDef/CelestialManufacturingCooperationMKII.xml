@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <QBU_TOOE_Bond.label>Δ'QBU-301E 高精度电荷狙击枪</QBU_TOOE_Bond.label>
+    <QBU_TOOE_Bond.description>第一代电荷狙击枪。尽管由于当时的技术限制，这把枪十分的笨重和复杂，但其精度极其出色。</QBU_TOOE_Bond.description>
+
+    <QBU_sixsix_Bond.label>Δ'QBU-66 反器材电荷爆弹狙击枪</QBU_sixsix_Bond.label>
+    <QBU_sixsix_Bond.description>21世纪60年代开发的重型反器材狙击枪，其20mm不稳定电荷弹在接触目标时造成剧烈爆炸并释放金属射流。</QBU_sixsix_Bond.description>
+
+    <CMC_QBUS85X_Flame_Bond.label>Δ'QBU-85S “离火”智能射手步枪</CMC_QBUS85X_Flame_Bond.label>
+    <CMC_QBUS85X_Flame_Bond.description>一把改装的智能射手步枪，子弹填充了大量燃料，在接触物体后将剧烈燃料，可以烧灼有机体敌人甚至熔穿机械族装甲。</CMC_QBUS85X_Flame_Bond.description>
+
+    <CMC_QBXfiveseven_CSG_Bond.label>Δ'QBX-57C智能电荷霰弹枪</CMC_QBXfiveseven_CSG_Bond.label>
+    <CMC_QBXfiveseven_CSG_Bond.description>一次发射9发射弹打击射程内的单个敌人，射弹将会追踪敌人。</CMC_QBXfiveseven_CSG_Bond.description>
+
+    <CMC_QBXninenine_CSG_Bond.label>Δ'QBX-99C智能电荷霰弹枪</CMC_QBXninenine_CSG_Bond.label>
+    <CMC_QBXninenine_CSG_Bond.description>基于QBX-57C改进而来、更为先进的电荷霰弹枪，优化了射速和射弹数量。</CMC_QBXninenine_CSG_Bond.description>
+
+    <QBZ_fivenine_MOD_X_Bond.label>Δ'QBZ-59X原型电荷突击步枪</QBZ_fivenine_MOD_X_Bond.label>
+    <QBZ_fivenine_MOD_X_Bond.description>第二代电荷步枪的原型枪，射速极快且子弹会过热引燃敌人，但这也导致其在远距离精度不佳。</QBZ_fivenine_MOD_X_Bond.description>
+
+    <!-- 原文未汉化,暂译保留
+    <QBZ_fivenine_Bond.label>Δ'QBZ-59C“强良”电荷突击步枪</QBZ_fivenine_Bond.label>
+    <QBZ_fivenine_Bond.description>以雷神强良命名的第二代电荷突击步枪。这种步枪以极高的速度发射高穿透子弹，其大容量弹匣允许它有效地压制中至近距离的敌人。</QBZ_fivenine_Bond.description>
+    -->
+
+    <QBB_fivenine_Bond.label>Δ'QBB-59C“强良”班用电荷机枪</QBB_fivenine_Bond.label>
+    <QBB_fivenine_Bond.description>这是一款基于QBZ-59C设计的轻机枪，旨在为小队提供有效的火力支援。</QBB_fivenine_Bond.description>
+
+    <QBZ71_QS_Bond.label>Δ'QBZ-71重型战斗步枪</QBZ71_QS_Bond.label>
+    <QBZ71_QS_Bond.description>一款以精度见长的重型步枪，使用大口径电荷穿甲弹，在全距离精度都很出色，不过使用起来十分笨重。</QBZ71_QS_Bond.description>
+
+    <QBZ_threeooE_Bond.label>Δ'QBZ-301E充能突击步枪</QBZ_threeooE_Bond.label>
+    <QBZ_threeooE_Bond.description>作为电荷武器的先驱之一，QBZ-301E由于当时的科技限制笨重、复杂且精度不佳，但却做为一款廉价的高穿甲武器很受边缘世界用户的欢迎。</QBZ_threeooE_Bond.description>
+
+    <W85XWJ_Bond.label>Δ'QBB-85X“万剑”智能轻机枪</W85XWJ_Bond.label>
+    <W85XWJ_Bond.description>在先进的火控和光电加持下能以低射速发射追踪弹药精确消灭敌人的轻机枪，在危急时刻也能快速射击。\n\n如使用者的射击技能较低，也可能让子弹落在敌人附近而未准确命中敌人。</W85XWJ_Bond.description>
+
+    <CMC_QBU71S_Bond.label>Δ'QBU-71 智能反器材狙击枪</CMC_QBU71S_Bond.label>
+    <CMC_QBU71S_Bond.description>由QBU-66发展而来的新一代反器材狙击枪，先进的火控大幅提高了反应时间和射程。其子弹装备的微型反物质战斗部能造成剧烈的爆炸。</CMC_QBU71S_Bond.description>
+    
+    <QBU71_QS_Bond.label>Δ'QBU-71 “九尾”战术狙击枪</QBU71_QS_Bond.label>
+    <QBU71_QS_Bond.description>基于QBU-71大口径狙击枪发展而来的多用途战术狙击枪，其装载纳米微械的子弹可以麻醉敌人，或者直接烧穿其神经系统。</QBU71_QS_Bond.description>
+
+    <QBUS85XWJ_Bond.label>Δ'QBUS-85X “响箭”智能射手步枪</QBUS85XWJ_Bond.label>
+    <QBUS85XWJ_Bond.description>发射追踪子弹的电荷射手步枪，可以在远距离命中移动目标。对步兵较为有效。</QBUS85XWJ_Bond.description>
+
+    <QBZS85XWJ_Bond.label>Δ'QBZ-85X 万剑 智能冲锋枪</QBZS85XWJ_Bond.label>
+    <QBZS85XWJ_Bond.description>开发于21世纪80年代的智能冲锋枪，装备了当时最先进的火控系统和微型追踪射弹，可以在复杂条件下追踪并命中敌人。</QBZS85XWJ_Bond.description>
+
+    <CMC_GrenadeLauncher_Bond.label>Δ'QL-40 多用途榴弹发射器</CMC_GrenadeLauncher_Bond.label>
+    <CMC_GrenadeLauncher_Bond.description>简易的电磁推进榴弹发射器，双弹鼓的设计可以使其快速切换发射的弹药种类以适应不同环境。</CMC_GrenadeLauncher_Bond.description>
+
+    <!--原文未汉化,暂译保留
+    <CMC_HJX_ATGM_Bond.label>Δ'红箭-53 单兵反坦克导弹</CMC_HJX_ATGM_Bond.label>
+    <CMC_HJX_ATGM_Bond.description>单兵反坦克导弹发射装置，装备HJ-53轻型ATGM导弹。</CMC_HJX_ATGM_Bond.description>
+    -->
+
+    <PrototypeXiHe_Bond.label>Δ'实验性羲和脉冲喷火器</PrototypeXiHe_Bond.label>
+    <PrototypeXiHe_Bond.description>太空时代的先进长距离脉冲喷火器，攻击时会向远距离投射数道燃料柱并引燃。该武器对有机体十分有效，也能烧穿大部分机械族装甲。\n\n该武器近战能造成高额火焰伤害</PrototypeXiHe_Bond.description>
+
+    <!--一代升二代，不做汉化 
+    <QLUX_Pulse_Projector_Bond.label></QLUX_Pulse_Projector_Bond.label>
+    <QLUX_Pulse_Projector_Bond.description></QLUX_Pulse_Projector_Bond.description>
+    
+
+    <QLUX_Pulse_Projector_Persona_Bond.label></QLUX_Pulse_Projector_Persona_Bond.label>
+    <QLUX_Pulse_Projector_Persona_Bond.description></QLUX_Pulse_Projector_Persona_Bond.description>
+
+    -->
+
+    <CMM_PLaserpistol_Bond.label>Δ'QCS-79P 脉冲激光手枪</CMM_PLaserpistol_Bond.label>
+    <CMM_PLaserpistol_Bond.description>具备多目标攻击能力的激光手枪, 对包括主目标在内4格内的3个目标同时造成受品质偏移8-4-4的激光伤害并附加灼烧效果。\n\n【灼烧效果】：目标将会被持续施加烧伤效果，但不会被点燃。</CMM_PLaserpistol_Bond.description>
+
+    <CMC_PLaserSMG_Bond.label>Δ'QBZL-79P 脉冲激光冲锋枪</CMC_PLaserSMG_Bond.label>
+    <CMC_PLaserSMG_Bond.description>具备多目标攻击能力的试验激光冲锋枪, 对包括主目标在内6格内的4个目标同时造成受品质偏移15（无视护甲）/15（无视护甲）/8/8的激光伤害并附加灼烧效果，对主目标造成点燃效果。\n\n【灼烧效果】：目标将会被持续施加烧伤效果，但不会被点燃。</CMC_PLaserSMG_Bond.description>
+
+    <CMC_PLaserLMG_Bond.label>Δ'QBZL-79P 脉冲激光机枪</CMC_PLaserLMG_Bond.label>
+    <CMC_PLaserLMG_Bond.description>具备多目标攻击能力的试验激光轻机枪, 对包括主目标在内5格内的3个目标同时造成受品质偏移10-5-5的激光伤害并附加灼烧效果。\n\n【灼烧效果】：目标将会被持续施加烧伤效果，但不会被点燃。</CMC_PLaserLMG_Bond.description>
+
+    <CMC_ShapedLaserRifle_Bond.label>Δ'QBZL-55 射线步枪</CMC_ShapedLaserRifle_Bond.label>
+    <CMC_ShapedLaserRifle_Bond.description>发射粒子射线的步枪，总能命中敌人。在大气层内使用时射程很短且威力一般。</CMC_ShapedLaserRifle_Bond.description>
+
+    <!--
+    <CMC_ShenLongLaserLMG_Bond.label>Δ'QBZL-102P“神龙”机枪</CMC_ShenLongLaserLMG_Bond.label>
+    <CMC_ShenLongLaserLMG_Bond.description>激光轻机枪的原型机，可以同时攻击7个敌人，射程内的敌人数量越多，该激光枪的威力越强。</CMC_ShenLongLaserLMG_Bond.description>
+    -->
+
+    <CMC_QSZfiveseven_Bond.label>Δ'QSZ-57 单兵自卫武器</CMC_QSZfiveseven_Bond.label>
+    <CMC_QSZfiveseven_Bond.description>基于过时的火药武器改进而来的单兵自卫武器，其非常轻便灵活的特性深受飞行员和开拓者们的喜爱。</CMC_QSZfiveseven_Bond.description>
+
+
+
+
+
+
+
+</LanguageData>
