@@ -14,3 +14,10 @@ DX12_XYZ的机翻润色汉化,
 名字 | name | xxx.description | PBF_XX_XXX.description
 名字 | name | xxx.jobString | PBF_XX_XXX.jobString
 ...
+  
+注意:中文是必须的，而英文、标签等是可选的，如果联动mod没有中文或中文太老则优先使用边缘汉化组的汉化mod再考虑其他汉化且要在文件头标注使用哪位的汉化  
+如果你想提取文本标签你可以看那些汉化教程或者：  
+找到你要汉化的东西  
+在你的steam文件夹下去到\steamapps\workshop\content\294100\2802598983找PBFmod的文件夹和去到要联动mod的文件夹:\steamapps\workshop\content\294100\创意工坊ID  
+在PBFmod文件夹下看看有没有和要联动mod的名字相像的文件，用Visual Studio Code,notepad++,或者windos自带的文本编辑器和其他文本编辑器打开  
+搜索你要汉化的东西的名字或者介绍，找到<PBF_XX_XXX.label>name</PBF_XX_XXX.label>,其中XX_XXX可能包含这个东西在另一边(联动mod)的标签名字，如果没有用你要汉化的东西的名字或者介绍机翻看联动mod
