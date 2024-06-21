@@ -24,3 +24,10 @@ DX12_XYZ的机翻润色汉化,
 搜索你要汉化的东西的名字或者介绍，找到<PBF_XX_XXX.label>name</PBF_XX_XXX.label>,其中XX_XXX可能包含这个东西在另一边(联动mod)的标签名字(请全找完，有写代码是注册用的)  
 .label可以是其他的东西如.description，如果没有用你要汉化的东西的名字或者介绍机翻看联动mod哪那个意思更相近  
 下面是举例  
+PBFmod   
+`<<xxx>PBF_XX_XXX_name</xxx>
+  <label>PBFname</label>>`  
+联动mod  
+`<<xxx>XX_XXX_name</xxx>
+  <label>name</label>>`
+其中`<<xxx>PBF_XX_XXX_name</xxx>>`是东西的PBF标签，`<<xxx>XX_XXX_name</xxx>>`是东西的联动mod标签,label是他们各自的显示名称
