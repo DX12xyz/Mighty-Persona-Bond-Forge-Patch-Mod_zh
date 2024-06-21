@@ -20,4 +20,7 @@ DX12_XYZ的机翻润色汉化,
 找到你要汉化的东西  
 在你的steam文件夹下去到\steamapps\workshop\content\294100\2802598983找PBFmod的文件夹和去到要联动mod的文件夹:\steamapps\workshop\content\294100\创意工坊ID  
 在PBFmod文件夹下看看有没有和要联动mod的名字相像的文件，用Visual Studio Code,notepad++,或者windos自带的文本编辑器和其他文本编辑器打开  
-搜索你要汉化的东西的名字或者介绍，找到<PBF_XX_XXX.label>name</PBF_XX_XXX.label>,其中XX_XXX可能包含这个东西在另一边(联动mod)的标签名字，如果没有用你要汉化的东西的名字或者介绍机翻看联动mod
+联动mod找找有Def名称的文件夹，里面可能有你你要汉化的东西，同上打开它
+搜索你要汉化的东西的名字或者介绍，找到<PBF_XX_XXX.label>name</PBF_XX_XXX.label>,其中XX_XXX可能包含这个东西在另一边(联动mod)的标签名字(请全找完，有写代码是注册用的)  
+.label可以是其他的东西如.description，如果没有用你要汉化的东西的名字或者介绍机翻看联动mod哪那个意思更相近  
+下面是举例  
